@@ -2,8 +2,8 @@ import pygame
 import random
 
 
-WIDTH = 600
-HEIGHT = 400
+WIDTH = 800
+HEIGHT = 600
 VELKOST = 20
 VELKOSTRH = 10
 VELKOSTRV = 100
